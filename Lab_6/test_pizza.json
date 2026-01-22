@@ -1,0 +1,24 @@
+[
+  {
+    "predictions": {
+      "inference_id": "0ee02c1a-aa58-4ff6-a4a8-b75dfdbafdba",
+      "time": 0.04154323798138648,
+      "image": {
+        "width": 2811,
+        "height": 2811
+      },
+      "predictions": [
+        {
+          "class": "pizza",
+          "class_id": 0,
+          "confidence": 1
+        }
+      ],
+      "top": "pizza",
+      "confidence": 1,
+      "prediction_type": "classification",
+      "parent_id": "image",
+      "root_parent_id": "image"
+    }
+  }
+]

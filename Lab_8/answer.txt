@@ -1,0 +1,7 @@
+=== ANSWER ===
+
+1) 1970 — Seppo Linnainmaa published the modern form of backpropagation [доказательство: "In 1970, Seppo Linnainmaa published the modern form of backpropagation in his Master's thesis (1970)."]
+
+2) Gottfried Wilhelm Leibniz — derived the chain rule in 1673 [доказательство: "Backpropagation is an efficient application of the chain rule derived by Gottfried Wilhelm Leibniz in 1673"]
+
+3) Joseph, 1960 — proposed the chain rule (used in backpropagation) [доказательство: "Backpropagation is an efficient application of the chain rule derived by Gottfried Wilhelm Leibniz in 1673"]

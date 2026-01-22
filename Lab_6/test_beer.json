@@ -1,0 +1,24 @@
+[
+  {
+    "predictions": {
+      "inference_id": "0b3524de-378b-42aa-803f-5ee3205c717a",
+      "time": 0.017928758985362947,
+      "image": {
+        "width": 1734,
+        "height": 1800
+      },
+      "predictions": [
+        {
+          "class": "beer",
+          "class_id": 1,
+          "confidence": 0.9998
+        }
+      ],
+      "top": "beer",
+      "confidence": 0.9998,
+      "prediction_type": "classification",
+      "parent_id": "image",
+      "root_parent_id": "image"
+    }
+  }
+]
